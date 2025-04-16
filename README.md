@@ -244,6 +244,6 @@ for (CSVRecord record : records) {
 
 **Balla Gayathri **  
 💼 Java Backend Developer  
-📧 Reach me on LinkedIn or GitHub!
+📧 Reach me on LinkedIn(https://www.linkedin.com/in/gayathri-balla-049b3017b/) or GitHub!
 
 ---
